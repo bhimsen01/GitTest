@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-wthis this
-=======
-helloworld
->>>>>>> main
+hahaha
